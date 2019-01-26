@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "instagram-scraper-executor",
+    "name": "instagram-scraper",
+    "region": "eu-west-1"
+  },
+  "api": {
+    "id": "3n88q8n0eb",
+    "module": "index"
+  }
+}
